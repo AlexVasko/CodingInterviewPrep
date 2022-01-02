@@ -1,4 +1,4 @@
-package datastructures.queue;
+package datastructures.queue.theory;
 
 import java.util.Iterator;
 import java.util.LinkedList;
